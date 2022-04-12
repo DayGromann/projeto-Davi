@@ -1,0 +1,21 @@
+
+don't starve
+
+PC - menino
+NPC - animais
+objeto - procurar comida - manter sanidade.
+
+não comer, morre
+chapéu flores mantém sanidade
+algumas comida perde ou dignidade, cantar, contruir barraca e fogueira
+
+equilibrio - bichos matam/ sanidade é difícil de manter.
+com o passar do tempo aumenta a dificuldade.
+
+estratégia
+seta quando perde - mostrador de vida fica diferente
+
+chão,personagem, uns 2 itens para farmar(arvores, arbustos)
+
+
+Para próxima aula - Criar farm de algo para comer e algum bicho
