@@ -82,18 +82,7 @@ class Bufalo{
     }
 
     atacar(){
-        if(personagem.sprite.x - 15 > this.sprite.x){
-            this.mover("direita", 2)   
-        }
-        if(personagem.sprite.x + 15 < this.sprite.x){
-            this.mover("esquerda",2)
-        }    
-        if(personagem.sprite.y - 15 > this.sprite.y){
-            this.mover("baixo",2)
-        }
-        if(personagem.sprite.y + 15 < this.sprite.y){
-            this.mover("cima",2)
-        }      
-        
+        this.sprite.pointTo(personagem.sprite.x, personagem.sprite.y);
+        this.sprite.setSpeedAndDirection(5,this.sprite.rotation)
     }
 }
